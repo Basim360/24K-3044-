@@ -1,0 +1,9 @@
+Pseudocode for:Take the variables as input and them without using "+" operator?
+1-START
+2-INPUT three vaiables A,B,C,
+3-SET SUM=A
+4-Subtract(-B) from Sum
+     SUM=SUM-(-B)
+5-Subtract(-C) from Sum
+     SUM=SUM-(-C)
+6-DISPLAY "SUM"
