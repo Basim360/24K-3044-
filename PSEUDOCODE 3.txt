@@ -1,0 +1,13 @@
+Pseudocode for:Create a simple calculator which only does + or - operations?
+
+1-START
+2-INPUT number A
+3-Input operator(+or-)
+4-Input number B
+5-IF operator is "+" THEN 
+     DISPLAY "SUM=A+B"
+  ELSE IF operator is "-" THEN
+     DISPLAY "Difference=A-B"
+  ELSE 
+     DISPLAY "Invalid Input"
+6-END

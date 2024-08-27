@@ -1,0 +1,31 @@
+Implement an algorithm where user entered a number and an appropriate month is displayed?
+1-START
+2-Input numbers n (1-12)
+3-Check value of n
+   if n==1
+   print "january"
+   else if n==2
+   print "feburary"
+   else if n==3
+   print"march"
+   else if n==4
+   print"april"
+   else if n==5
+   print"may"
+   else if n==6
+   print"june"
+   else if n==7
+   print"july"
+   else if n==8
+   print"august"
+   else if n==9
+   print"september"
+   else if n==10
+   print"october"
+   else if n==11
+   print"november"
+   else if n==12
+   print"december"
+   else 
+   print"Invalid Command"
+4-END

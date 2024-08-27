@@ -1,0 +1,23 @@
+Implement an algorithm for making a simple calculator with all the operators +,-,*,/,%?
+1-START
+2-INPUT first number A
+        operator (+,-,*,/%)
+        second number B
+3-Check the operator 
+     if the operator==+
+        Result=A+B
+        print"Result"
+     else if operator==-
+        Result=A-B
+        printf"Result" 
+     else if operator==*
+        Result=A*B
+     else if operator==/
+        Result=A/B
+        printf"Result"
+     else if operator==%
+        Result=A%B
+        printf"Result"
+     else
+        printf Invalid operator
+4-END

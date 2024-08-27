@@ -1,0 +1,17 @@
+Implement an algorithm for determining if an Nth is a divisor of an n number if so determine
+if it is even or odd number?
+1-START
+2-INPUT two numbers n(number to be divided) and Nth 
+3-Check divisibility 
+    If n%Nth==0
+    Nth is a divisor of n
+    GOTO Step 4
+    Else
+    Nth is not a divisor of n
+    GOTO Step 5
+4-Determine Even or Odd
+    If Nth%2==0
+    PRINT Nth is a divisor of n and a even number
+    Else 
+    PRINT Nth is not a divisor of n and a odd number
+5-END
