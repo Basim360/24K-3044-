@@ -1,0 +1,13 @@
+Pseudocode to find maximum of three numbers?
+1-START
+2-INPUT variable a,
+  INPUT variable b,
+  Input variable c,
+3-IF a>b and a>c THEN
+     DISPLAY Max=a
+  ELSE IF b>a and b>c THEN
+     DISPLAY Max=b
+  ELSE 
+     DISPLAY Max=c
+4-END
+     
